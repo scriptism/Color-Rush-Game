@@ -14,14 +14,6 @@ Color Rush challenges players to match the target color from a 3x3 grid of color
 - **Time**: Countdown timer for each round
 - **Streak**: Consecutive correct answers
 
-## 🎨 Design Features
-
-- **Modern UI**: Glassmorphism design with gradients
-- **Responsive Design**: Works on desktop, tablet, and mobile
-- **Smooth Animations**: Fluid transitions and effects
-- **Beautiful Colors**: Vibrant color palette with 10 different colors
-- **Clean Interface**: Distraction-free gameplay experience
-
 ## 🎨 Color Palette
 
 The game features 10 vibrant colors:

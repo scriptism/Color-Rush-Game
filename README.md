@@ -6,14 +6,6 @@ A fun and engaging color matching game that tests your ability to quickly identi
 
 Color Rush challenges players to match the target color from a 3x3 grid of colorful tiles. Each correct match earns points and builds streaks, while the difficulty increases as you level up. The game combines speed, accuracy, and visual recognition skills.
 
-## 🎮 How to Play
-
-1. **Start Game**: Click "Start Game" to begin the challenge
-2. **Match Colors**: Look at the target color circle and find its match in the grid
-3. **Click to Select**: Click on the color tile that matches the target
-4. **Build Streaks**: Chain correct answers for bonus points
-5. **Level Up**: Score enough points to advance to higher levels
-
 ## 📊 Game Features
 
 ### **Real-time Statistics**
@@ -21,18 +13,6 @@ Color Rush challenges players to match the target color from a 3x3 grid of color
 - **Level**: Current difficulty level
 - **Time**: Countdown timer for each round
 - **Streak**: Consecutive correct answers
-
-### **Progressive Difficulty**
-- **Level 1**: Easy color matching with 30-second timer
-- **Level 2+**: Decreasing time limits and increasing challenge
-- **Dynamic Scoring**: Base points + streak bonus + level bonus
-- **Time Pressure**: Timer decreases with each level
-
-### **Visual Feedback**
-- **Target Color**: Pulsing circle showing the color to match
-- **Color Grid**: 3x3 grid of colorful tiles
-- **Particle Effects**: Celebration animations for correct answers
-- **Sound Waves**: Visual feedback for successful matches
 
 ## 🎨 Design Features
 
